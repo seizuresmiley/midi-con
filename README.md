@@ -1,4 +1,4 @@
-# midi-con
+# MIDICON
 ดนตรีเเนว “Electronic” เป็นที่นิยมในปัจจุบันอย่างมาก เเละ อาชีพเเละงานอดิเรกเช่นการ “DJ”  หรือ การผสมเพลงต่างๆ จึงเป็นที่เเพร่หลาย เนื่องจากความเข้าถึงง่ายของสื่อเเละความนิยมของเเนวเพลงนี้ เเต่เนื่องจาก ค่าใช้จ่ายที่มหาศาล ในการซื้ออุปกรณ์ต่างๆ ถึงเเม้ว่าในปัจจุบัน มีซอฟต์เเวร์ที่ฟรี หรือราคาถูก เเต่ปัจจุบันยังไม่มีอุปกรณ์ควบคุมซอฟต์เเวร์เหล่านั้น ที่มีราคาถูก เเต่มีฟังค์ชั่นที่ครบครัน
 
 ผู้พัฒนาจึงได้นำความรู้ที่ได้จักการเรียนการสอนเเละการค้นคว้าเพิ่มเติมเพื่อมาใช้พัฒนาเเละสร้าง เเผงควบคุมซอฟต์เเวร์เหล่านั้น ที่มีราคาถูก เเละสามารถดัดเเปลงเพิ่มเติมได้ ตามความต้องการของผู้ใช้
@@ -30,3 +30,24 @@ Controller > USB MIDI > Digital Audio Workstation / DJ Software
 **Total Days:** 27 day
 
 **Main Language:** C++,Arduino Platform
+
+##Team Members
+<center><table>
+ <tr>
+  <th><img src="images/net.jpg" height="150" width="130"></th>
+  <th><img src="images/punch.jpg" height="150" width="150"></th>
+  <th><img src="images/yub.jpg" height="150" width="150"></th>
+  <th><img src="images/nick.jpg" height="150" width="150"></th>
+ </tr>
+ <tr>
+  <th><p align="center">นาย อภิยุช เอี่ยวสีหยก</p></th> 
+  <th><p align="center">นาย พัสกร อรุณสดใส</p></th>
+  <th><p align="center">นาย ปริญญา สมบูรณ์ผล</p></th>
+  <th><p align="center">นาย สุฤตฑีน์ นุพงค์</p></th>
+ </tr>
+ <tr>
+  <th><p align="center">61070349</p></th>
+  <th><p align="center">61070141</p></th>
+  <th><p align="center">61070118</p></th>
+  <th><p align="center">61070253</p></th>
+ </table></center>

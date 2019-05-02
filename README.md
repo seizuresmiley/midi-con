@@ -50,3 +50,15 @@ Controller > USB MIDI > Digital Audio Workstation / DJ Software
   <th><p align="center">61070118</p></th>
   <th><p align="center">61070253</p></th>
  </table></center>
+ 
+ ## Assistant Teacher
+ <center><table>
+ <tr>
+  <th><img src="images/Aj. Oong.jpg" height="150" width="130"></th>
+  <th><img src="images/Aj. Panwit.jpg" height="150" width="150"></th>
+ </tr>
+ <tr>
+  <th><p align="center">ผศ. ดร. กิติ์สุชาต พสุภา</p></th> 
+  <th><p align="center">ผศ. ดร. ปานวิทย์ ธุวะนุติ</p></th>
+ </tr>
+ </table></center>

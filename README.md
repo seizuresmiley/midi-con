@@ -6,7 +6,7 @@
 
 **กลุ่มผู้ใช้งาน:** กลุ่มนักดนตรี,กลุ้มสร้าง Content ต่างๆ
 
-##ภาพรวมของระบบ
+## ภาพรวมของระบบ
 
 Controller > USB MIDI > Digital Audio Workstation / DJ Software
 

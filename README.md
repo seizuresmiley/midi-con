@@ -16,7 +16,7 @@ Controller > USB MIDI > Digital Audio Workstation / DJ Software
 
 **Last Updated:** 1st april 2019  
 
-**Project Status:** Completed
+**Project Status:** Completed/doing poster and youtube
 
 
 ## Statistics

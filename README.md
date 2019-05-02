@@ -10,6 +10,8 @@
 
 Controller > USB MIDI > Digital Audio Workstation / DJ Software
 
+**Youtube:** https://youtu.be/JWbSzOnK_vo
+
 ## Information
 
 **Project Site:** https://github.com/seizuresmiley/midi-con
